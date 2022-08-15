@@ -2,7 +2,7 @@
 
 <hr>
 
-I am a guy `passionate` about `computing💻` and `cibersegurity🔒` although I also like to make web pages (front-end)
+I am a guy 🇦🇷 `passionate` about `computing💻` and `cibersegurity🔒` although I also like to make web pages (front-end)
 
 <hr>
 
