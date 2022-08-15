@@ -6,13 +6,8 @@ I am a guy 🇦🇷 `passionate` about `computing💻` and `cibersegurity🔒` a
 
 <hr>
 
-### 🔹 Cibersegurity 🔒
+### 🔹 Cibersegurity & pentesting🔒
 
-*incomplete*
-
-### 🔹 Hack the box 🟩
-
-<!-- [My Profile]() -->
 *incomplete*
 
 ### 🔹 Programming language ✅ <br>
